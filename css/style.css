@@ -1,0 +1,37 @@
+body {
+  background-color: beige;
+  color: black;
+}
+
+#title {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#form-layout {
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+#description {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.gender {
+  display: inline-block;
+  margin: 3px;
+}
+
+.buttonstyle {
+  display: flex;
+  flex-direction: row;
+  background-color: beige;
+}
+
+.innerbutton {
+  margin: 5px;
+}
+
+#table-styles {
+  color: grey !important;
+}
